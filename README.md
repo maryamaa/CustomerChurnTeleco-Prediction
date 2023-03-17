@@ -22,3 +22,17 @@ Next, we used ML Azure to build a machine learning model to predict which custom
 Finally, we used the model to identify customers who were at high risk of churning, allowing the telecommunications company to develop targeted retention programs to reduce customer churn. The project helped the company to retain more customers and increase their revenue.
 Overall, this project demonstrated the power of data analysis, machine learning, and visualization tools in predicting customer churn and improving business outcomes in the telecommunications industry.
 
+## **Analytics**
+**Step 1 - Data cleaning and transformation actions in Excel**
+Re-phrased the values in "MultipleLines" column to "SingleLine", "MultipleLine", and "No Phone" to eliminate the "PhoneService" column.
+Changed the data type of the "SeniorCitizen" column to "Text" and re-phrased the values to "Yes" and "No".
+Created a new column called "FamilyStatus" based on "Partner" and "Dependents" columns. The values are "Single" if the customer has no partner and no dependents and "Multi Member" otherwise.
+Combined "StreamingMovies" and "StreamingTV" columns into a new column called "No_StreamingService" to show how many streaming services a customer uses.
+Merged "OnlineSecurity", "OnlineBackup", "DeviceProtection" & "TechSupport" columns into a new column called "No_OtherService" to show how many other supportive services a customer uses.
+Filled the missing values in "TotalCharges" column with "0" value based on the observation that these particular customers have "0" value in their "tenure" column.
+
+**Step 2 - Creating a Dashboard in Power BI to Gain Insights**
+After completing the data cleaning and transformation actions in Step 1, the next step was to create a dashboard in Power BI to explore the customer dataset and gain insights. Power BI is a powerful data visualization tool that allows users to create interactive dashboards and reports, share insights, and collaborate with others.
+The dashboard provided an overview of the customer dataset, including key metrics such as customer demographics, products and services used, and customer churn rate. The dashboard included visualizations such as bar charts, pie charts, and tables to help users easily identify trends and patterns in the data.
+
+**
