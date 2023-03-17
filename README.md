@@ -39,7 +39,14 @@ The dashboard provided an overview of the customer dataset, including key metric
 In this step, In step 3, we used ML Azure to build a predictive model for identifying churned customers in a telecommunication company. Our target variable was "churn", and we included all columns as our selected features. We used 70% of our data for modeling and applied two classification models: a Two-Class Boosted Decision Tree and a Two-Class Logistic Regression Model. These models were designed to accurately predict whether a customer is likely to churn, which can be a valuable tool for the company to take proactive measures and retain their customers.
 
 - [Two Class Boosted Decision Tree Model](https://gallery.cortanaintelligence.com/Experiment/TelcoCustomerChurn-2CBoostedDT)
+
+![telcoCustomerChur-2CBDT-Model](https://user-images.githubusercontent.com/45305744/225796007-1b4a6a7a-844c-4fdc-ae69-b08a0c7d5a8a.png)
+
+
 - [Two-Class Logistic Regression Model](https://gallery.cortanaintelligence.com/Experiment/TelcoCustomerChurn-2cLR)
+
+![TelcoCustomerChur-2CLR-Model](https://user-images.githubusercontent.com/45305744/225796055-43424a3e-0811-4e17-ae29-098eaa9f9205.png)
+
 
 ## **Results**
 Some example of insights from the dashboard:
