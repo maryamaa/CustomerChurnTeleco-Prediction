@@ -36,3 +36,4 @@ After completing the data cleaning and transformation actions in Step 1, the nex
 The dashboard provided an overview of the customer dataset, including key metrics such as customer demographics, products and services used, and customer churn rate. The dashboard included visualizations such as bar charts, pie charts, and tables to help users easily identify trends and patterns in the data.
 
 **
+[https://gallery.cortanaintelligence.com/Experiment/TelcoCustomerChurn-TwoClassBoostedDecisionTree](https://gallery.cortanaintelligence.com/Experiment/TelcoCustomerChurn-2cLR)
